@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=你的Github用户名&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xxxx-c&layout=compact&theme=tokyonight)
 
