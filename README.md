@@ -1,4 +1,4 @@
-## Hi there is Amo 👋
+### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
 
 Here are some ideas to get you started:
@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: cmm9471@gmail.com
 - 😄 Pronouns: OpenSource
- -⚡ To be continued .....
+- ⚡ To be continued .....
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xxxx-c&layout=compact&theme=tokyonight)
+
